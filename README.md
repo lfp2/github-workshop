@@ -2,7 +2,7 @@
 
 Primeiros passos com Git e GitHub
 
-[https://www.canva.com/design/DAE6UgU_rBo/7reeTT8sGjzXR4w1FAafHA/view?utm_content=DAE6UgU_rBo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](Slides do Workshop)
+[Slides do Workshop](https://www.canva.com/design/DAE6UgU_rBo/7reeTT8sGjzXR4w1FAafHA/view?utm_content=DAE6UgU_rBo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Olá! Este repositório serve para que você tenha sua primeira experiência com Git e GitHub.
 
