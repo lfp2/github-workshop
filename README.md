@@ -8,17 +8,17 @@ Olá! Este repositório serve para que você tenha sua primeira experiência com
 
 ## Pré-requisitos:
 
-1. Instale o controle de versão [https://git-scm.com/downloads](Git)
-2. (Opcional) Instale o [https://code.visualstudio.com/download](Visual Code Studio)
+1. Instale o controle de versão [Git](https://git-scm.com/downloads)
+2. (Opcional) Instale o [Visual Code Studio](https://code.visualstudio.com/download)
 
 ## Tutorial:
 
-- Faça um [https://docs.github.com/pt/get-started/quickstart/fork-a-repo](fork) desse repositório para sua conta clicando no botão Fork.
+- Faça um [Fork](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) desse repositório para sua conta clicando no botão Fork.
 - Clique no botão Code, em seguida em Local e HTTPS. Copie a URL.
 
 ### Utilizando o Terminal
 
-- Escolha um Diretório para seu repositório. Caso não saiba navegar na linha de comando, um bom tutorial está disponível [https://terminalcheatsheet.com/pt-BR/](aqui).
+- Escolha um Diretório para seu repositório. Caso não saiba navegar na linha de comando, um bom tutorial está disponível [aqui](https://terminalcheatsheet.com/pt-BR/).
 - Dentro do seu terminal, digite o comando `git clone <URL que você copiou>`
 - Navegue para dentro da nova pasta com `cd github-workshop`
 - Navegue para dentro do completed com `cd completed`
