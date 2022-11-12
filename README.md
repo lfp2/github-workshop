@@ -38,3 +38,12 @@ Olá! Este repositório serve para que você tenha sua primeira experiência com
 - Adicione na mensagem `:tada: Meu primeiro commit :tada:`
 - Aperte o botão `Commit`. Isso deixará salvo no seu histórico local.
 - Para enviar a mudança pro GitHub, aperte o botão `Sync changes` e depois `Ok`.
+
+## Criando seu Pull request
+
+- Após mandar as suas mudanças para o GitHub, vá no seu repositório no site
+- Cique em Contribuir
+- Clique em Abrir um Pull Request
+- Coloque no título `Adicionando <Seu usuário no GitHub> a lista`
+- Clique em Abrir Pull Request
+- Agora é só esperar um dos moderadores aprovar!
