@@ -1,1 +1,1 @@
-echo "https://github.com/LazaroJPR"
+echo "https://github.com/LazaroJPR" >LazaroJPR.md
