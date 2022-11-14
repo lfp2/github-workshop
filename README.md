@@ -16,7 +16,12 @@ Olá! Este repositório serve para que você tenha sua primeira experiência com
 - Faça um [Fork](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) desse repositório para sua conta clicando no botão Fork.
 - Clique no botão Code, em seguida em Local e HTTPS. Copie a URL.
 
-### Utilizando o Terminal (Recomendado no Ubuntu/Mac OS)
+Continue no:
+- [Ubuntu/MacOS](https://github.com/lfp2/github-workshop#utilizando-o-terminal-recomendado-no-ubuntumac-os)
+- [Windows](https://github.com/lfp2/github-workshop#utilizando-o-visual-code-studio-recomendado-windows)
+- [Browser](https://github.com/lfp2/github-workshop#utilizando-o-visual-code-studio-recomendado-windows)
+
+### Utilizando o Terminal (Recomendado no Ubuntu/MacOS)
 
 - Escolha um Diretório para seu repositório. Caso não saiba navegar na linha de comando, um bom tutorial está disponível [aqui](https://terminalcheatsheet.com/pt-BR/).
 - Dentro do seu terminal, digite o comando `git clone <URL que você copiou>`
